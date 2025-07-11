@@ -1,10 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tv.activation-key.net/">
+
 How to Activate TND TV on Roku? 📺
 ============================================
-.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 Streaming has completely transformed how people consume entertainment, and TND TV is quickly becoming one of the favorite destinations for viewers looking for quality content. With a wide range of shows, live TV, movies, and exclusive programming, it’s no surprise that people are trying to get TND TV set up on popular devices like Roku.
 
